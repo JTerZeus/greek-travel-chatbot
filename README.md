@@ -28,10 +28,10 @@ TravelBuddy is a simple, pattern-matching chatbot written in Python that engages
 ## How to Run
 
 1.  Make sure you have Python 3 installed.
-2.  Save the code as a Python file (e.g., `travel_buddy.py`).
+2.  Save the code as a Python file (e.g., `Travel_Buddy.py`).
 3.  Run the script from your terminal:
     ```bash
-    python travel_buddy.py
+    python Travel_Buddy.py
     ```
 4.  Start chatting with your Travel Buddy! Type `αντίο` to end the session.
 
