@@ -39,4 +39,4 @@ TravelBuddy is a simple, pattern-matching chatbot written in Python that engages
 
 ### University Project Context
 
-This chatbot was created by for the "Theory of Computation" course at the **University of Macedonia**. The goal was to create an ELIZA-style chatbot focused on a specific domain (travel) by implementing a system of pattern-recognition rules.
+This chatbot was created for the "Theory of Computation" course at the **University of Macedonia**. The goal was to create an ELIZA-style chatbot focused on a specific domain (travel) by implementing a system of pattern-recognition rules.
